@@ -18,4 +18,7 @@ Tillbaka = function(){
     window.location="Index.html";
 }
 
+Projektarbete = function(){
+    window.location="Projektarbete.html"
+}
 }
